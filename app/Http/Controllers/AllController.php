@@ -14,10 +14,6 @@ class AllController extends Controller
         return view('users.pesan');
     }
 
-    public function kontak(){
-        return view('users.kontak');
-    }
-
     public function produk(){
         return view('users.produk');
     }

@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\AllController;
+use App\Http\Controllers\KontakController;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Auth;
 
@@ -22,7 +23,8 @@ Route::get('/', function () {
 Route::get('/profile', [App\Http\Controllers\AllController::class, 'index'])->name('_profile');
 Route::get('/produk', [App\Http\Controllers\AllController::class, 'produk'])->name('_produk');
 Route::get('/cara-pemesanan', [App\Http\Controllers\AllController::class, 'pesan'])->name('_pesan');
-Route::get('/kontak', [App\Http\Controllers\AllController::class, 'kontak'])->name('_kontak');
+Route::get('/kontak', [App\Http\Controllers\KontakController::class, 'index'])->name('_kontak');
+Route::post('/kontak', [KontakController::class, 'submit'])->name('kontak.submit');
 
 Auth::routes();
 
