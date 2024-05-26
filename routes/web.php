@@ -23,10 +23,11 @@ Route::get('/', function () {
 Route::get('/profile', [App\Http\Controllers\AllController::class, 'index'])->name('_profile');
 Route::get('/produk', [App\Http\Controllers\AllController::class, 'produk'])->name('_produk');
 Route::get('/cara-pemesanan', [App\Http\Controllers\AllController::class, 'pesan'])->name('_pesan');
+
 Route::get('/kontak', [App\Http\Controllers\KontakController::class, 'index'])->name('_kontak');
 Route::post('/kontak', [KontakController::class, 'submit'])->name('kontak.submit');
 
 Auth::routes();
 
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('login');
+Route::get('/admin', [App\Http\Controllers\HomeController::class, 'index'])->name('_login');
 

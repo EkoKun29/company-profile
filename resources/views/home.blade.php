@@ -73,27 +73,80 @@
         </div> --}}
         <!-- Search End -->
 
+<div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="container">
+                <h1 class="text-center mb-5">Informasi Produk</h1>
+                <div class="owl-carousel testimonial-carousel">
+                    <div class="testimonial-item bg-light rounded p-4">
+                        <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
+                        <p>Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam</p>
+                        <div class="d-flex align-items-center">
+                            <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-1.jpg" style="width: 50px; height: 50px;">
+                            <div class="ps-3">
+                                <h5 class="mb-1">Client Name</h5>
+                                <small>Profession</small>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testimonial-item bg-light rounded p-4">
+                        <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
+                        <p>Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam</p>
+                        <div class="d-flex align-items-center">
+                            <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-2.jpg" style="width: 50px; height: 50px;">
+                            <div class="ps-3">
+                                <h5 class="mb-1">Client Name</h5>
+                                <small>Profession</small>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testimonial-item bg-light rounded p-4">
+                        <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
+                        <p>Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam</p>
+                        <div class="d-flex align-items-center">
+                            <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-3.jpg" style="width: 50px; height: 50px;">
+                            <div class="ps-3">
+                                <h5 class="mb-1">Client Name</h5>
+                                <small>Profession</small>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testimonial-item bg-light rounded p-4">
+                        <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
+                        <p>Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam</p>
+                        <div class="d-flex align-items-center">
+                            <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-4.jpg" style="width: 50px; height: 50px;">
+                            <div class="ps-3">
+                                <h5 class="mb-1">Client Name</h5>
+                                <small>Profession</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
         <!-- Category Start -->
         <div class="container-xxl py-5">
             <div class="container">
-                <h1 class="text-center mb-5 wow fadeInUp" data-wow-delay="0.1s">Explore By Category</h1>
+                <h1 class="text-center mb-2 wow fadeInUp" data-wow-delay="0.1s">Values Kami</h1>
+                <p class="text-center" style="font-size:20px;">Tumbuh Bersama Petani Indonesia</p>
                 <div class="row g-4">
-                    <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
-                        <a class="cat-item rounded p-4" href="">
-                            <i class="fa fa-3x fa-mail-bulk text-primary mb-4"></i>
-                            <h6 class="mb-3">Marketing</h6>
-                            <p class="mb-0">123 Vacancy</p>
+                    <div class="col-lg-6 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <a class="cat-item rounded p-4 d-block mx-auto" style="margin: 0 auto; text-align:center">
+                            <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/2023/11/icon1-2.png" width="100px" height="auto"></i>
+                            <h6 class="mb-3">Dari Petani Untuk Petani</h6>
+                            <p class="mb-0">Produk benih kami diambil dari areal terbaik dan didistribusikan
+                            dengan proses aman sehingga terjaga kualitasnya.</p>
                         </a>
                     </div>
-                    <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
-                        <a class="cat-item rounded p-4" href="">
-                            <i class="fa fa-3x fa-headset text-primary mb-4"></i>
-                            <h6 class="mb-3">Customer Service</h6>
-                            <p class="mb-0">123 Vacancy</p>
+                    <div class="col-lg-6 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <a class="cat-item rounded p-4 d-block mx-auto" style="margin: 0 auto; text-align:center">
+                            <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/2023/11/icon2.png" width="100px" height="auto"></i>
+                            <h6 class="mb-3">Kualitas Benih Yang Baik</h6>
+                            <p class="mb-0">Mengedepankan pelayanan konsumen yang prima. <br><br></p>
                         </a>
                     </div>
-                    <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
+                    {{-- <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
                         <a class="cat-item rounded p-4" href="">
                             <i class="fa fa-3x fa-user-tie text-primary mb-4"></i>
                             <h6 class="mb-3">Human Resource</h6>
@@ -134,7 +187,7 @@
                             <h6 class="mb-3">Design & Creative</h6>
                             <p class="mb-0">123 Vacancy</p>
                         </a>
-                    </div>
+                    </div> --}}
                 </div>
             </div>
         </div>
@@ -145,29 +198,81 @@
         <div class="container-xxl py-5">
             <div class="container">
                 <div class="row g-5 align-items-center">
-                    <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
+                    <div class="col-lg-4 wow fadeIn" data-wow-delay="0.1s">
                         <div class="row g-0 about-bg rounded overflow-hidden">
-                            <div class="col-6 text-start">
+                            <div class="col-4 text-start">
                                 <img class="img-fluid w-100" src="img/about-1.jpg">
-                            </div>
-                            <div class="col-6 text-start">
-                                <img class="img-fluid" src="img/about-2.jpg" style="width: 85%; margin-top: 15%;">
-                            </div>
-                            <div class="col-6 text-end">
-                                <img class="img-fluid" src="img/about-3.jpg" style="width: 85%;">
-                            </div>
-                            <div class="col-6 text-end">
-                                <img class="img-fluid w-100" src="img/about-4.jpg">
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                        <h1 class="mb-4">We Help To Get The Best Job And Find A Talent</h1>
-                        <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
-                        <p><i class="fa fa-check text-primary me-3"></i>Tempor erat elitr rebum at clita</p>
-                        <p><i class="fa fa-check text-primary me-3"></i>Aliqu diam amet diam et eos</p>
-                        <p><i class="fa fa-check text-primary me-3"></i>Clita duo justo magna dolore erat amet</p>
-                        <a class="btn btn-primary py-3 px-5 mt-3" href="">Read More</a>
+                    <div class="col-lg-4 wow fadeIn" data-wow-delay="0.5s">
+                        <h1 class="mb-4" style="text-align:center">Kata Petani Kita</h1>
+                        <div class="col-lg-12 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
+                        <a class="cat-item rounded p-4 d-flex align-items-center" style="margin: 0 auto;">
+                            <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/2023/11/icon1-2.png" width="100px" height="auto"></i>
+                            <div>
+                                <h6 class="mb-1">SISWANTO, PETANI NGANJUK</h6>
+                                <p class="mb-0">Semenjak Beralih Ke Benih Bintang, Ada Peningkatan Hasil Panen Saya.</p>
+                            </div>
+                        </a>
+                        <a class="cat-item rounded p-4 d-flex align-items-center" style="margin: 0 auto;">
+                            <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/2023/11/icon1-2.png" width="100px" height="auto"></i>
+                            <div>
+                                <h6 class="mb-1">ABDUL, PETANI NGAWI</h6>
+                                <p class="mb-0">Saya Sudah Pakai Benih Bintang Sudah Lama. Alhasil Padi Saya Tahan Bakteri Dan Jamur.</p>
+                            </div>
+                        </a>
+                        <a class="cat-item rounded p-4 d-flex align-items-center" style="margin: 0 auto;">
+                            <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/2023/11/icon1-2.png" width="100px" height="auto"></i>
+                            <div>
+                                <h6 class="mb-1">RAHMAN, PETANI KUDUS</h6>
+                                <p class="mb-0">Benih Padi Ultraseed Tetap Menjadi Andalan Kami.</p>
+                            </div>
+                        </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 wow fadeIn" data-wow-delay="0.5s">
+                        <h1 class="mb-4" style="text-align:center">Distributor Kami</h1>
+                         <div class="col-lg-12 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
+                        <a class="cat-item rounded p-4 d-flex align-items-center" style="margin: 0 auto;">
+                            <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/elementor/thumbs/icoico2-qfl486strdxpoi2qzig2fog6cycxlr8vlam98qv5bw.png" width="50px" height="auto"></i>
+                            <div style="margin-left: 15px;">
+                                <h6 class="mb-1">TOKO INDO KIMIA FARMA</h6>
+                                <p class="mb-0">Pati, Jawa Tengah.</p>
+                            </div>
+                        </a>
+                        <a class="cat-item rounded p-4 d-flex align-items-center" style="margin: 0 auto;">
+                            <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/elementor/thumbs/icoico2-qfl486strdxpoi2qzig2fog6cycxlr8vlam98qv5bw.png" width="50px" height="auto"></i>
+                            <div style="margin-left: 15px;">
+                                <h6 class="mb-1">TOKO RAHMAT TANI</h6>
+                                <p class="mb-0">Pati, Jawa Tengah.</p>
+                            </div>
+                        </a>
+                        <a class="cat-item rounded p-4 d-flex align-items-center" style="margin: 0 auto;">
+                            <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/elementor/thumbs/icoico2-qfl486strdxpoi2qzig2fog6cycxlr8vlam98qv5bw.png" width="50px" height="auto"></i>
+                            <div style="margin-left: 15px;">
+                                <h6 class="mb-1">TOKO BANGKIT SANJAYA</h6>
+                                <p class="mb-0">Pati, Jawa Tengah.</p>
+                            </div>
+                        </a>
+                        <a class="cat-item rounded p-4 d-flex align-items-center" style="margin: 0 auto;">
+                            <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/elementor/thumbs/icoico2-qfl486strdxpoi2qzig2fog6cycxlr8vlam98qv5bw.png" width="50px" height="auto"></i>
+                            <div style="margin-left: 15px;">
+                                <h6 class="mb-1">TOKO BERKAH ABADI</h6>
+                                <p class="mb-0">Pati, Jawa Tengah.</p>
+                            </div>
+                        </a>
+                        <a class="cat-item rounded p-4 d-flex align-items-center" style="margin: 0 auto;">
+                            <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/elementor/thumbs/icoico2-qfl486strdxpoi2qzig2fog6cycxlr8vlam98qv5bw.png" width="50px" height="auto"></i>
+                            <div style="margin-left: 15px;">
+                                <h6 class="mb-1">TOKO SRI MURNI</h6>
+                                <p class="mb-0">Pati, Jawa Tengah.</p>
+                                <h6 class="mb-1">Dan Masih Banyak Lagi...</h6>
+                            </div>
+                        </a>
+                        </div>
+                        {{-- <p><i class="fa fa-check text-primary me-3"></i>Dan Masih Banyak Lagi</p>
+                        <a class="btn btn-primary py-3 px-5 mt-3" href="">Read More</a> --}}
                     </div>
                 </div>
             </div>
@@ -176,7 +281,7 @@
 
 
         <!-- Jobs Start -->
-        <div class="container-xxl py-5">
+        {{-- <div class="container-xxl py-5">
             <div class="container">
                 <h1 class="text-center mb-5 wow fadeInUp" data-wow-delay="0.1s">Job Listing</h1>
                 <div class="tab-class text-center wow fadeInUp" data-wow-delay="0.3s">
@@ -510,60 +615,10 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> --}}
         <!-- Jobs End -->
 
 
         <!-- Testimonial Start -->
-        <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="container">
-                <h1 class="text-center mb-5">Our Clients Say!!!</h1>
-                <div class="owl-carousel testimonial-carousel">
-                    <div class="testimonial-item bg-light rounded p-4">
-                        <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                        <p>Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam</p>
-                        <div class="d-flex align-items-center">
-                            <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-1.jpg" style="width: 50px; height: 50px;">
-                            <div class="ps-3">
-                                <h5 class="mb-1">Client Name</h5>
-                                <small>Profession</small>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="testimonial-item bg-light rounded p-4">
-                        <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                        <p>Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam</p>
-                        <div class="d-flex align-items-center">
-                            <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-2.jpg" style="width: 50px; height: 50px;">
-                            <div class="ps-3">
-                                <h5 class="mb-1">Client Name</h5>
-                                <small>Profession</small>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="testimonial-item bg-light rounded p-4">
-                        <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                        <p>Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam</p>
-                        <div class="d-flex align-items-center">
-                            <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-3.jpg" style="width: 50px; height: 50px;">
-                            <div class="ps-3">
-                                <h5 class="mb-1">Client Name</h5>
-                                <small>Profession</small>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="testimonial-item bg-light rounded p-4">
-                        <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                        <p>Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam</p>
-                        <div class="d-flex align-items-center">
-                            <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-4.jpg" style="width: 50px; height: 50px;">
-                            <div class="ps-3">
-                                <h5 class="mb-1">Client Name</h5>
-                                <small>Profession</small>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        
 @endsection
