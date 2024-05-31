@@ -1,17 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="container-xxl py-5 bg-dark page-header mb-5">
-                {{-- @if (session('success'))
-                    <div class="alert alert-success" id="myAlert">
-                        {{ session('success') }}
-                    </div>
-                @elseif(session('error'))
-                    <div class="alert alert-danger" id="myAlert">
-                        {{ session('error') }}
-                    </div>
-                @endif --}}
-            <div class="container my-5 pt-5 pb-4">
+<div class="container-xxl py-5 bg-dark page-header mb-5"><div class="container my-5 pt-5 pb-4">
                 <h1 class="display-3 text-white mb-3 animated slideInDown">KONTAK</h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb text-uppercase">

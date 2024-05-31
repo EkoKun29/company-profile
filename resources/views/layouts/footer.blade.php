@@ -18,9 +18,9 @@
                         <p class="mb-2" style="font-size: 14px;"><i class="fa fa-phone-alt me-3"></i>(0295) 4790061</p>
                         <p class="mb-2" style="font-size: 14px;"><i class="fa fa-envelope me-3"></i>marketing.arindoutama@gmail.com</p>
                         <div class="d-flex pt-2">
-                            <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-youtube"></i></a>
+                            <a class="btn btn-outline-light btn-social" href="https://www.facebook.com/arindoutama.pati/?locale=id_ID"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-outline-light btn-social" href="https://www.instagram.com/taufiqmuhammad___/"><i class="fab fa-instagram"></i></a>
+                            <a class="btn btn-outline-light btn-social" href="https://www.youtube.com/@arindoutamaperkasa"><i class="fab fa-youtube"></i></a>
                             <a class="btn btn-outline-light btn-social" href="mailto:marketing.arindoutama@gmail.com"><i class="fa fa-envelope"></i></a>
                         </div>
                     </div>
