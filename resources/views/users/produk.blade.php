@@ -29,12 +29,6 @@
                                             <span class="text-truncate me-3"><i class="fa fa-map-marker-alt text-primary me-2"></i>New York, USA</span>
                                         </div>
                                     </div>
-                                    <div class="col-sm-12 col-md-4 d-flex flex-column align-items-start align-items-md-end justify-content-center">
-                                        <div class="d-flex mb-1" style="display: flex; flex-direction: column; align-items: stretch; gap: 10px;">
-                                            <a class="btn btn-warning" style="display: block; padding: 10px 20px; font-size: 16px; text-align: center; vertical-align: middle; white-space: nowrap; border-radius: 4px; width: 100%; text-decoration: none; color: white;" href="">Detail Produk</a>
-                                            <button class="btn btn-primary" style="display: block; padding: 10px 20px; font-size: 16px; text-align: center; vertical-align: middle; white-space: nowrap; border-radius: 4px; width: 100%;">Pesan Sekarang</button>
-                                        </div>
-                                    </div>
                                 </div>
                             </div>
                         </div>

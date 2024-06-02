@@ -6,10 +6,7 @@
                             <img src="{{ asset('assets/img/logo.png') }}" alt="Arindo Logo" class="img-circle" width="80px" height="auto">
                             <h5 class="text-white mb-0 mt-3">PT ARINDO UTAMA PERKASA</h5>
                         </div>
-                        <p class="mb-0" style="font-size: 14px;text-align: justify;">PT Arindo Utama Perkasa merupakan perusahaan yang bergerak
-                        di bidang pertanian. Pertama kali berdiri tahun 2000 berbentuk PB (Produsen Benih), setelah beroperasi selama 3 tahun berubah menjadi CV pada tahun 2003, 
-                        empat tahun kemudian menjadi PT. ARINDO UTAMA PERKASA mengawali usaha sebagai penyedia benih padi dengan merk Cap Bintang. Selama hampir 10 tahun, 
-                        merk ini telah menjadi andalan para petani untuk kebutuhan benih padi bagi lahan pertanian.
+                        <p class="mb-0" style="font-size: 14px;text-align: justify;">PT Arindo Utama Perkasa merupakan perusahaan yang bergerak di bidang pertanian yang berfokus pada produksi benih padi.
                         </p>
                     </div>
                     <div class="col-lg-5 col-md-6">

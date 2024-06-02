@@ -19,7 +19,8 @@
         <div class="row g-5 align-items-center">
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                 <h1 class="mb-4">Pemesanan</h1>
-                <p class="mb-4" style="text-align:justify">Pemesanan produk bisa menghubungi salah satu nomor dibawah ini. </p>
+                <p class="mb-4" style="text-align:justify">Pemesanan produk bisa melalui distributor terdekat kami: </p>
+                <p class="mb-4" style="text-align:justify">Atau bisa menghubungi salah satu nomor dibawah ini untuk diarahkan ke distributor: </p>
                 <a class="btn btn-warning" style="color:white;" href="https://wa.me/6281326491689"> <i class="fab fa-whatsapp"></i> Pesan Sekarang</a>
                 <a class="btn btn-primary" href="https://wa.me/6281325517042"><i class="fab fa-whatsapp"></i> Pesan Sekarang</a>
             </div>
