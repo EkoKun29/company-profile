@@ -12,7 +12,6 @@
                                 <div class="col-10 col-lg-8">
                                     <h1 class="display-3 text-white animated slideInDown mb-4">PT. ARINDO UTAMA PERKASA</h1>
                                     <p class="fs-5 fw-medium text-white mb-4 pb-2">Perusahaan Yang Bergerak Di Bidang Pertanian</p>
-                                    <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Pesan Sekarang</a>
                                 </div>
                             </div>
                         </div>
@@ -26,7 +25,6 @@
                                 <div class="col-10 col-lg-8">
                                     <h1 class="display-3 text-white animated slideInDown mb-4">PRODUK KAMI SUDAH BERSTANDAR ISO 9001: 2015</h1>
                                     <p class="fs-5 fw-medium text-white mb-4 pb-2">Terakreditasi Oleh Komite Akreditasi Nasional.</p>
-                                    <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Pesan Sekarang</a>
                                     {{-- <a href="" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Find A Talent</a> --}}
                                 </div>
                             </div>

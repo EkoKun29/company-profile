@@ -1,7 +1,8 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="container-xxl py-5 bg-dark page-header mb-5"><div class="container my-5 pt-5 pb-4">
+        <div class="container-xxl py-5 bg-dark page-header mb-5" style="background-image: url('../../assets/img/carousel-2.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat;">
+            <div class="container my-5 pt-5 pb-4">
                 <h1 class="display-3 text-white mb-3 animated slideInDown">TENTANG KAMI</h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb text-uppercase">
@@ -12,7 +13,6 @@
                 </nav>
             </div>
         </div>
-
         <div class="container-xxl py-5">
             <div class="container">
                 <div class="row g-5 align-items-center">
