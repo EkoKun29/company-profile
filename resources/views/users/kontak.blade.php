@@ -28,25 +28,25 @@
                     @endif
 
                     <div class="col-12">
-                        <div class="row gy-4">
-                            <div class="col-md-4 wow fadeIn" data-wow-delay="0.1s">
-                                <div class="d-flex align-items-center bg-light rounded p-4">
+                       <div class="row g-4">
+                            <div class="col-md-4 col-12 wow fadeIn d-flex" data-wow-delay="0.1s">
+                                <div class="d-flex align-items-center bg-light rounded p-4 flex-grow-1">
                                     <div class="bg-white border rounded d-flex flex-shrink-0 align-items-center justify-content-center me-3" style="width: 45px; height: 45px;">
                                         <i class="fa fa-map-marker-alt text-primary"></i>
                                     </div>
                                     <span>Jl. Jakenan Winong No.KM 03, Batur Lor, Sembaturagung, Kec. Jakenan, Kabupaten Pati, Jawa Tengah 59182</span>
                                 </div>
                             </div>
-                            <div class="col-md-4 wow fadeIn" data-wow-delay="0.3s">
-                                <div class="d-flex align-items-center bg-light rounded p-4">
+                            <div class="col-md-4 col-12 wow fadeIn d-flex" data-wow-delay="0.3s">
+                                <div class="d-flex align-items-center bg-light rounded p-4 flex-grow-1">
                                     <div class="bg-white border rounded d-flex flex-shrink-0 align-items-center justify-content-center me-3" style="width: 45px; height: 45px;">
                                         <i class="fa fa-envelope-open text-primary"></i>
                                     </div>
-                                    <span>marketing.arindoutama@gmail.com</span>
+                                    <span>arindoutamaperkasa@gmail.com</span>
                                 </div>
                             </div>
-                            <div class="col-md-4 wow fadeIn" data-wow-delay="0.5s">
-                                <div class="d-flex align-items-center bg-light rounded p-4">
+                            <div class="col-md-4 col-12 wow fadeIn d-flex" data-wow-delay="0.5s">
+                                <div class="d-flex align-items-center bg-light rounded p-4 flex-grow-1">
                                     <div class="bg-white border rounded d-flex flex-shrink-0 align-items-center justify-content-center me-3" style="width: 45px; height: 45px;">
                                         <i class="fa fa-phone-alt text-primary"></i>
                                     </div>
@@ -55,12 +55,15 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                        <iframe class="position-relative rounded w-100 h-100"
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3949.951585858133!2d111.1340811!3d-6.7570674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e772d0be97ea6bb%3A0x2c0b7cc9665b4b7f!2sPT%20Arindo%20Utama%20Perkasa!5e0!3m2!1sen!2sid!4v1603794290143!5m2!1sen!2sid"
-                            frameborder="0" style="min-height: 400px; border:0;" allowfullscreen="" aria-hidden="false"
-                            tabindex="0"></iframe>
+                    <div class="d-flex justify-content-center">
+                        <div class="col-md-6 wow fadeInUp d-flex justify-content-center" data-wow-delay="0.1s">
+                            <iframe class="position-relative rounded w-100 h-100"
+                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3949.951585858133!2d111.1340811!3d-6.7570674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e772d0be97ea6bb%3A0x2c0b7cc9665b4b7f!2sPT%20Arindo%20Utama%20Perkasa!5e0!3m2!1sen!2sid!4v1603794290143!5m2!1sen!2sid"
+                                    frameborder="0" style="min-height: 400px; border:0;" allowfullscreen="" aria-hidden="false"
+                                    tabindex="0"></iframe>
+                        </div>
                     </div>
+
                     {{-- <div class="col-md-6">
                         <div class="wow fadeInUp" data-wow-delay="0.5s">
                         <h1 style="text-align:center">DAPATKAN PENAWARAN</h1>
