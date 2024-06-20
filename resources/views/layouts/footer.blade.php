@@ -2,9 +2,11 @@
             <div class="container py-5">
                 <div class="row g-5">
                     <div class="col-lg-4 col-md-6">
-                        <div class="brand-logo d-flex align-items-center mb-4">
+                    <div class="d-flex align-items-center mb-4">
                             <img src="{{ asset('assets/img/logo.png') }}" alt="Arindo Logo" class="img-circle" width="80px" height="auto">
-                            <h5 class="text-white mb-0 mt-3">PT ARINDO UTAMA PERKASA</h5>
+                            <div class="ps-3">
+                                <h5 class="text-white mb-4">PT ARINDO UTAMA PERKASA</h5>
+                            </div>
                         </div>
                         <p class="mb-0" style="font-size: 14px;text-align: justify;">PT Arindo Utama Perkasa merupakan perusahaan yang bergerak di bidang pertanian yang berfokus pada produksi benih padi.
                         </p>

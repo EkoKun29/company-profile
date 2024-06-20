@@ -75,9 +75,8 @@
             <div class="container">
                 <h1 class="text-center mb-5">Informasi Produk</h1>
                 <div class="owl-carousel testimonial-carousel">
-                    <div class="testimonial-item bg-light rounded p-4">
-                        <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                        <p>Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam</p>
+                    <div class="testimonial-item bg-light rounded p-4" style="display: flex; flex-direction: column; align-items: center;">
+                        <img class="img-fluid flex-shrink-0 rounded mb-3" src="../../assets/img/produk-1.jpg" style="width: 100px; height: auto;">
                         <div class="d-flex align-items-center">
                             <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-1.jpg" style="width: 50px; height: 50px;">
                             <div class="ps-3">
