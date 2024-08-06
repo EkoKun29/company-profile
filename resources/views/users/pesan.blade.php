@@ -31,16 +31,16 @@
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                 <div class="row g-0 about-bg rounded overflow-hidden">
                     <div class="col-6 text-start">
-                        <img class="img-fluid w-100" src="../../assets/img/pesan-1.jpg">
+                        <img class="img-fluid w-100" src="../../assets/img/bg-1.jpg">
                     </div>
                     <div class="col-6 text-start">
-                        <img class="img-fluid" src="../../assets/img/pesan-2.jpg" style="width: 85%; margin-top: 15%;">
+                        <img class="img-fluid" src="../../assets/img/bg-2.jpg" style="width: 85%; margin-top: 15%;">
                     </div>
                     <div class="col-6 text-end">
-                        <img class="img-fluid" src="../../assets/img/pesan-3.jpg" style="width: 85%;">
+                        <img class="img-fluid" src="../../assets/img/bg-3.jpg" style="width: 85%;">
                     </div>
                     <div class="col-6 text-end">
-                        <img class="img-fluid w-100" src="../../assets/img/pesan-4.jpg">
+                        <img class="img-fluid w-100" src="../../assets/img/bg-4.jpg">
                     </div>
                 </div>
             </div>

@@ -71,6 +71,7 @@
     <!-- Template Javascript -->
     <script src="../../assets/js/main.js"></script>
     @stack('js')
+    @stack('styles')
 </body>
 
 </html>

@@ -1,18 +1,38 @@
 @extends('layouts.app')
 
+@push('styles')
+<style>
+#page-header {
+    background: linear-gradient(rgba(43, 57, 64, .5), rgba(43, 57, 64, .5)), url('../../assets/img/profile.jpg') center center no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* Untuk tampilan mobile */
+@media (max-width: 768px) {
+    #page-header {
+        background: linear-gradient(rgba(43, 57, 64, .5), rgba(43, 57, 64, .5)), url('../../assets/img/profile.jpg') center center no-repeat;
+        background-size: contain;
+    }
+}
+</style>
+@endpush
+
 @section('content')
-        <div class="container-xxl py-5 bg-dark page-header mb-5" style="background:linear-gradient(rgba(43, 57, 64, .5), rgba(43, 57, 64, .5)), url('../../assets/img/profile.jpg') center center no-repeat; background-size: cover; background-position: center; background-repeat: no-repeat;">
-            <div class="container my-5 pt-5 pb-4">
-                <h1 class="display-3 text-white mb-3 animated slideInDown">TENTANG KAMI</h1>
-                <nav aria-label="breadcrumb">
-                    <ol class="breadcrumb text-uppercase">
-                        <li class="breadcrumb-item"><a href="{{ route('_home') }}">BERANDA</a></li>
-                        <li class="breadcrumb-item"><a href="{{ route('_produk') }}">PRODUK</a></li>
-                        <li class="breadcrumb-item text-white active" aria-current="page">PROFIL</li>
-                    </ol>
-                </nav>
-            </div>
-        </div>
+<div class="container-xxl py-5 bg-dark page-header mb-5" id="page-header">
+    <div class="container my-5 pt-5 pb-4">
+        <h1 class="display-3 text-white mb-3 animated slideInDown">TENTANG KAMI</h1>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb text-uppercase">
+                <li class="breadcrumb-item"><a href="{{ route('_home') }}">BERANDA</a></li>
+                <li class="breadcrumb-item"><a href="{{ route('_produk') }}">PRODUK</a></li>
+                <li class="breadcrumb-item text-white active" aria-current="page">PROFIL</li>
+            </ol>
+        </nav>
+    </div>
+</div>
+
         <div class="container-xxl py-5">
             <div class="container">
                 <div class="row g-5 align-items-center">
@@ -39,7 +59,7 @@
                     <a class="cat-item rounded p-4 d-block mx-auto">
                         <h1 class="col-lg-12 mb-2 wow fadeInUp" style="color:white;" data-wow-delay="0.1s">VISI</h1>
                         <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/2023/12/ico2.png" width="200px" height="auto">
-                        <h6 class="mb-3" style="color:white; margin-top:40px; font-size:20px">MENJADI PRODUSEN BENIH UNGGUL NASIONAL</h6>
+                        <h6 class="mb-3" style="color:white; margin-top:40px; font-size:20px">MENJADI PRODUSEN BENIH YANG BISA MEMBERIKAN KEPUASAN KEPADA PARA PELANGGAN</h6>
                     </a>
                 </div>
                 <div class="col-lg-8 col-sm-12 mb-3" style="text-align:center; margin:0 auto">
@@ -49,22 +69,22 @@
                             <div class="col-lg-6 col-sm-12 mb-3">
                                 <div class="d-flex align-items-center mb-3">
                                     <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/elementor/thumbs/pt2-qfl4b7u3jebqtbs1un9sweqz3kflsvtpr9xbvuxj6g.png" width="50px" height="auto">
-                                    <h6 style="color:white; margin-left: 10px; text-align: left;">Meningkatkan hasil petani dengan menyediakan benih yang berkualitas</h6>
+                                    <h6 style="color:white; margin-left: 10px; text-align: left;">Memproduksi Benih Dengan Kualitas Yang Baik.</h6>
                                 </div>
                                 <div class="d-flex align-items-center mb-3">
                                     <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/elementor/thumbs/pt3-qfl4b9prx2ebgjpbjo321e9wac6c8a16fj8aueuqu0.png" width="50px" height="auto">
-                                    <h6 style="color:white; margin-left: 10px; text-align: left;">Mensukseskan program pemerintah yaitu Ketahanan Pangan Nasional</h6>
+                                    <h6 style="color:white; margin-left: 10px; text-align: left;">Menyediakan Beberapa Produk Benih Pilihan.</h6>
                                 </div>
                                 <div class="d-flex align-items-center mb-3">
                                     <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/elementor/thumbs/pt4-qfl4bblgaqgw3rml8owb6dsth3x2no8n3sj9syryhk.png" width="50px" height="auto">
-                                    <h6 style="color:white; margin-left: 10px; text-align: left;">Menciptakan lapangan kerja</h6>
+                                    <h6 style="color:white; margin-left: 10px; text-align: left;">Menyediakan Produk Benih Secara Berkelanjutan.</h6>
                                 </div>
                                 <div class="d-flex align-items-center mb-3">
                                     <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/elementor/thumbs/pt5-qfl4bcjahki6fdl837axqvka2hsfvdcdfx6ra8qkbc.png" width="50px" height="auto">
-                                    <h6 style="color:white; margin-left: 10px; text-align: left;">Meningkatkan kesejahteraan karyawan, mitra kerja "Kelompok Tani"</h6>
+                                    <h6 style="color:white; margin-left: 10px; text-align: left;">Mengedepankan Pelayanan Kepada Konsumen Yang Prima.</h6>
                                 </div>
                             </div>
-                            <div class="col-lg-6 col-sm-12 mb-3">
+                            {{-- <div class="col-lg-6 col-sm-12 mb-3">
                                 <div class="d-flex align-items-center mb-3">
                                     <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/elementor/thumbs/pt6-qfl4beeyv8kr2lihs846vv3799j6arju46hq8snryw.png" width="50px" height="auto">
                                     <h6 style="color:white; margin-left: 10px; text-align: left;">Mencerdaskan petani melalui pola tanam secara intensif</h6>
@@ -81,7 +101,7 @@
                                     <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/elementor/thumbs/pt9-qfl4bk2008sh09aavajyatnytkrdky684yen4gfexk.png" width="50px" height="auto">
                                     <h6 style="color:white; margin-left: 10px; text-align: left;">Ikut serta dalam sosial kemasyarakatan</h6>
                                 </div>
-                            </div>
+                            </div> --}}
                         </div>
                     </a>
                 </div>

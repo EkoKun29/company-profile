@@ -73,48 +73,38 @@
 
 <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
             <div class="container">
-                <h1 class="text-center mb-5">Informasi Produk</h1>
+                <h1 class="text-center mb-3">Informasi Produk</h1>
+                <p class="text-center mb-5"> Produk kami telah berstandar ISO 9001:2015 dengan kualitas benih yang terbaik<p>
                 <div class="owl-carousel testimonial-carousel">
                     <div class="testimonial-item bg-light rounded p-4" style="display: flex; flex-direction: column; align-items: center;">
-                        <img class="img-fluid flex-shrink-0 rounded mb-3" src="../../assets/img/produk-1.jpg" style="width: 100px; height: auto;">
+                        <img class="img-fluid flex-shrink-0 rounded mb-3" src="../../assets/img/bg-1.jpg" style="width: 300px; height: auto;">
                         <div class="d-flex align-items-center">
-                            <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-1.jpg" style="width: 50px; height: 50px;">
                             <div class="ps-3">
-                                <h5 class="mb-1">Client Name</h5>
-                                <small>Profession</small>
+                                <h5 class="mb-1">BENIH BINTANG</h5>
                             </div>
                         </div>
                     </div>
-                    <div class="testimonial-item bg-light rounded p-4">
-                        <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                        <p>Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam</p>
+                    <div class="testimonial-item bg-light rounded p-4" style="display: flex; flex-direction: column; align-items: center;">
+                        <img class="img-fluid flex-shrink-0 rounded mb-3" src="../../assets/img/bg-2.jpg" style="width: 300px; height: auto;">
                         <div class="d-flex align-items-center">
-                            <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-2.jpg" style="width: 50px; height: 50px;">
                             <div class="ps-3">
-                                <h5 class="mb-1">Client Name</h5>
-                                <small>Profession</small>
+                                <h5 class="mb-1">BENIH ULTRASEED</h5>
                             </div>
                         </div>
                     </div>
-                    <div class="testimonial-item bg-light rounded p-4">
-                        <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                        <p>Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam</p>
+                    <div class="testimonial-item bg-light rounded p-4" style="display: flex; flex-direction: column; align-items: center;">
+                        <img class="img-fluid flex-shrink-0 rounded mb-3" src="../../assets/img/bg-3.jpg" style="width: 300px; height: auto;">
                         <div class="d-flex align-items-center">
-                            <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-3.jpg" style="width: 50px; height: 50px;">
                             <div class="ps-3">
-                                <h5 class="mb-1">Client Name</h5>
-                                <small>Profession</small>
+                                <h5 class="mb-1">BENIH STARSEED JUMBO</h5>
                             </div>
                         </div>
                     </div>
-                    <div class="testimonial-item bg-light rounded p-4">
-                        <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                        <p>Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam</p>
+                    <div class="testimonial-item bg-light rounded p-4" style="display: flex; flex-direction: column; align-items: center;">
+                        <img class="img-fluid flex-shrink-0 rounded mb-3" src="../../assets/img/bg-4.jpg" style="width: 300px; height: auto;">
                         <div class="d-flex align-items-center">
-                            <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-4.jpg" style="width: 50px; height: 50px;">
                             <div class="ps-3">
-                                <h5 class="mb-1">Client Name</h5>
-                                <small>Profession</small>
+                                <h5 class="mb-1">BENIH ALINDOSEED</h5>
                             </div>
                         </div>
                     </div>
@@ -198,7 +188,7 @@
                     <div class="col-lg-4 wow fadeIn" data-wow-delay="0.1s">
                         <div class="row g-0 about-bg rounded overflow-hidden">
                             <div class="col-4 text-start">
-                                <img class="img-fluid w-100" src="img/about-1.jpg">
+                                <img class="img-fluid w-100" src="../assets/img/petani-1.jpg">
                             </div>
                         </div>
                     </div>
@@ -268,8 +258,6 @@
                             </div>
                         </a>
                         </div>
-                        {{-- <p><i class="fa fa-check text-primary me-3"></i>Dan Masih Banyak Lagi</p>
-                        <a class="btn btn-primary py-3 px-5 mt-3" href="">Read More</a> --}}
                     </div>
                 </div>
             </div>
