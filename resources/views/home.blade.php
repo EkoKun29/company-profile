@@ -88,15 +88,15 @@
                         <img class="img-fluid flex-shrink-0 rounded mb-3" src="../../assets/img/bg-2.jpg" style="width: 300px; height: auto;">
                         <div class="d-flex align-items-center">
                             <div class="ps-3">
-                                <h5 class="mb-1">BENIH ULTRASEED</h5>
+                                <h5 class="mb-1">BENIH ULTRA SEED</h5>
                             </div>
                         </div>
                     </div>
                     <div class="testimonial-item bg-light rounded p-4" style="display: flex; flex-direction: column; align-items: center;">
-                        <img class="img-fluid flex-shrink-0 rounded mb-3" src="../../assets/img/bg-3.jpg" style="width: 300px; height: auto;">
+                        <img class="img-fluid flex-shrink-0 rounded mb-3" src="../../assets/img/bg-5.jpg" style="width: 300px; height: auto;">
                         <div class="d-flex align-items-center">
                             <div class="ps-3">
-                                <h5 class="mb-1">BENIH STARSEED JUMBO</h5>
+                                <h5 class="mb-1">BENIH JUMBO OPTIMA SEED</h5>
                             </div>
                         </div>
                     </div>
@@ -104,7 +104,7 @@
                         <img class="img-fluid flex-shrink-0 rounded mb-3" src="../../assets/img/bg-4.jpg" style="width: 300px; height: auto;">
                         <div class="d-flex align-items-center">
                             <div class="ps-3">
-                                <h5 class="mb-1">BENIH ALINDOSEED</h5>
+                                <h5 class="mb-1">BENIH ALINDO SEED</h5>
                             </div>
                         </div>
                     </div>
@@ -121,6 +121,7 @@
                     <div class="col-lg-6 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
                         <a class="cat-item rounded p-4 d-block mx-auto" style="margin: 0 auto; text-align:center">
                             <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/2023/11/icon1-2.png" width="100px" height="auto"></i>
+                            <br>
                             <h6 class="mb-3">Dari Petani Untuk Petani</h6>
                             <p class="mb-0">Produk benih kami diambil dari areal terbaik dan didistribusikan
                             dengan proses aman sehingga terjaga kualitasnya.</p>
@@ -187,8 +188,17 @@
                 <div class="row g-5 align-items-center">
                     <div class="col-lg-4 wow fadeIn" data-wow-delay="0.1s">
                         <div class="row g-0 about-bg rounded overflow-hidden">
-                            <div class="col-4 text-start">
+                            <div class="col-6 text-start">
+                                <img class="img-fluid w-100" src="../assets/img/petani-4.jpg">
+                            </div>
+                            <div class="col-6 text-start">
                                 <img class="img-fluid w-100" src="../assets/img/petani-1.jpg">
+                            </div>
+                            <div class="col-6 text-start">
+                                <img class="img-fluid w-100" src="../assets/img/petani-3.jpg">
+                            </div>
+                            <div class="col-6 text-start">
+                                <img class="img-fluid w-100" src="../assets/img/petani-2.jpg">
                             </div>
                         </div>
                     </div>

@@ -13,7 +13,9 @@
 @media (max-width: 768px) {
     #page-header {
         background: linear-gradient(rgba(43, 57, 64, .5), rgba(43, 57, 64, .5)), url('../../assets/img/profile.jpg') center center no-repeat;
-        background-size: contain;
+        background-size: cover;
+        height: 384px;
+        width: 100%;
     }
 }
 </style>
@@ -55,14 +57,14 @@
         {{-- <h1 class="text-center mb-3 wow fadeInUp" data-wow-delay="0.1s">Visi Misi</h1> --}}
         <div class="row g-4">
             <div class="col-lg-12 col-sm-6 wow fadeInUp d-flex flex-lg-row flex-column" style="background-color: #00B074; justify-content: space-around;" data-wow-delay="0.1s">
-                <div class="col-lg-4 col-sm-12 mb-3" style="text-align:center; margin:0 auto">
+                <div class="col-lg-6 col-sm-12 mb-3" style="text-align:center; margin:0 auto">
                     <a class="cat-item rounded p-4 d-block mx-auto">
-                        <h1 class="col-lg-12 mb-2 wow fadeInUp" style="color:white;" data-wow-delay="0.1s">VISI</h1>
+                        <h1 class="col-lg-12 mb-3 wow fadeInUp" style="color:white;" data-wow-delay="0.1s">VISI</h1>
                         <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/2023/12/ico2.png" width="200px" height="auto">
                         <h6 class="mb-3" style="color:white; margin-top:40px; font-size:20px">MENJADI PRODUSEN BENIH YANG BISA MEMBERIKAN KEPUASAN KEPADA PARA PELANGGAN</h6>
                     </a>
                 </div>
-                <div class="col-lg-8 col-sm-12 mb-3" style="text-align:center; margin:0 auto">
+                <div class="col-lg-6 col-sm-12 mb-3" style="text-align:center; margin:0 auto">
                     <a class="cat-item rounded p-4 d-block mx-auto">
                         <h1 class="col-lg-12 mb-2 wow fadeInUp" style="color:white;" data-wow-delay="0.1s">MISI</h1>
                         <div class="row">

@@ -26,30 +26,32 @@
                                         <img class="flex-shrink-0 img-fluid border rounded" src="../../assets/img/produk-1.jpg" alt="" style="width: 80px; height: auto;">
                                         <div class="text-start ps-4">
                                             <h5 class="mb-3">BENIH BINTANG</h5>
-                                        <small class="text-truncate"><i class="far fa-calendar-alt text-primary me-2"></i>Tanggal Awal Produksi: 01 Jan, 2045</small>
+                                        <small class="text-truncate"><i class="fas fa-quote-left text-primary me-2"></i>Benih padi dengan kualitas terbaik dan teruji lolos uji sertifikasi dan ISO 9001 – 2008.</small>
+                                        <small class="text-truncate">Diawasi langsung tanpa adanya orang ketiga. Varietas Ciherang, IR-64, Inpari 30, Memberamo, Situ Bagendit , Inpari Sidenuk dan Cibago. <i class="fas fa-quote-right text-primary me-2"></i></small>
+                                        
                                         </div>
                                     </div>
-                                    <div class="col-sm-12 col-md-4 d-flex flex-column align-items-start align-items-md-end justify-content-center">
+                                    {{-- <div class="col-sm-12 col-md-4 d-flex flex-column align-items-start align-items-md-end justify-content-center">
                                         <div class="d-flex mb-3">
                                             <a class="btn btn-primary" href="">Detail Benih</a>
                                         </div>
-                                    </div>
+                                    </div> --}}
                                 </div>
                             </div>
                             <div class="job-item p-4 mb-4">
                                 <div class="row g-4">
                                     <div class="col-sm-12 col-md-8 d-flex align-items-center">
-                                        <img class="flex-shrink-0 img-fluid border rounded" src="../../assets/img/produk-2.jpg" alt="" style="width: 80px; height: auto;">
+                                        <img class="flex-shrink-0 img-fluid border rounded" src="../../assets/img/produk-5.jpg" alt="" style="width: 80px; height: auto;">
                                         <div class="text-start ps-4">
-                                            <h5 class="mb-3">BENIH JUMBO STARSEED</h5>
-                                        <small class="text-truncate"><i class="far fa-calendar-alt text-primary me-2"></i>Tanggal Awal Produksi: 01 Jan, 2045</small>
+                                            <h5 class="mb-3">BENIH JUMBO OPTIMA SEED</h5>
+                                        <small class="text-truncate"><i class="fas fa-quote-left text-primary me-2"></i>Premium benih padi dengan kualitas unggul. Sudah sertifikasi benih dan ISO 9001-2008. <i class="fas fa-quote-right text-primary me-2"></i></small>
                                         </div>
                                     </div>
-                                    <div class="col-sm-12 col-md-4 d-flex flex-column align-items-start align-items-md-end justify-content-center">
+                                    {{-- <div class="col-sm-12 col-md-4 d-flex flex-column align-items-start align-items-md-end justify-content-center">
                                         <div class="d-flex mb-3">
                                             <a class="btn btn-primary" href="">Detail Benih</a>
                                         </div>
-                                    </div>
+                                    </div> --}}
                                 </div>
                             </div>
                             <div class="job-item p-4 mb-4">
@@ -57,15 +59,15 @@
                                     <div class="col-sm-12 col-md-8 d-flex align-items-center">
                                         <img class="flex-shrink-0 img-fluid border rounded" src="../../assets/img/produk-3.jpg" alt="" style="width: 80px; height: auto;">
                                         <div class="text-start ps-4">
-                                            <h5 class="mb-3">BENIH ALINDOSEED</h5>
-                                        <small class="text-truncate"><i class="far fa-calendar-alt text-primary me-2"></i>Tanggal Awal Produksi: 01 Jan, 2045</small>
+                                            <h5 class="mb-3">BENIH ALINDO SEED</h5>
+                                        <small class="text-truncate"><i class="fas fa-quote-left text-primary me-2"></i>Premium benih padi dengan kualitas unggul. Sudah sertifikasi benih dan ISO 9001-2008. <i class="fas fa-quote-right text-primary me-2"></i></small>
                                         </div>
                                     </div>
-                                    <div class="col-sm-12 col-md-4 d-flex flex-column align-items-start align-items-md-end justify-content-center">
+                                    {{-- <div class="col-sm-12 col-md-4 d-flex flex-column align-items-start align-items-md-end justify-content-center">
                                         <div class="d-flex mb-3">
                                             <a class="btn btn-primary" href="">Detail Benih</a>
                                         </div>
-                                    </div>
+                                    </div> --}}
                                 </div>
                             </div>
                             <div class="job-item p-4 mb-4">
@@ -73,15 +75,15 @@
                                     <div class="col-sm-12 col-md-8 d-flex align-items-center">
                                         <img class="flex-shrink-0 img-fluid border rounded" src="../../assets/img/produk-4.jpg" alt="" style="width: 80px; height: auto;">
                                         <div class="text-start ps-4">
-                                            <h5 class="mb-3">BENIH ULTRASEED</h5>
-                                        <small class="text-truncate"><i class="far fa-calendar-alt text-primary me-2"></i>Tanggal Awal Produksi: 01 Jan, 2045</small>
+                                            <h5 class="mb-3">BENIH ULTRA SEED</h5>
+                                        <small class="text-truncate"><i class="fas fa-quote-left text-primary me-2"></i>Premium benih padi dengan kualitas unggul. Sudah sertifikasi benih dan ISO 9001-2008. <i class="fas fa-quote-right text-primary me-2"></i></small>
                                         </div>
                                     </div>
-                                    <div class="col-sm-12 col-md-4 d-flex flex-column align-items-start align-items-md-end justify-content-center">
+                                    {{-- <div class="col-sm-12 col-md-4 d-flex flex-column align-items-start align-items-md-end justify-content-center">
                                         <div class="d-flex mb-3">
                                             <a class="btn btn-primary" href="">Detail Benih</a>
                                         </div>
-                                    </div>
+                                    </div> --}}
                                 </div>
                             </div>
                         </div>

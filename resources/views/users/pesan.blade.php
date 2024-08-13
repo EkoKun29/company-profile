@@ -37,7 +37,7 @@
                         <img class="img-fluid" src="../../assets/img/bg-2.jpg" style="width: 85%; margin-top: 15%;">
                     </div>
                     <div class="col-6 text-end">
-                        <img class="img-fluid" src="../../assets/img/bg-3.jpg" style="width: 85%;">
+                        <img class="img-fluid" src="../../assets/img/bg-5.jpg" style="width: 85%;">
                     </div>
                     <div class="col-6 text-end">
                         <img class="img-fluid w-100" src="../../assets/img/bg-4.jpg">
