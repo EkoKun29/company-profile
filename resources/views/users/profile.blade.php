@@ -70,19 +70,27 @@
                         <div class="row">
                             <div class="col-lg-6 col-sm-12 mb-3">
                                 <div class="d-flex align-items-center mb-3">
-                                    <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/elementor/thumbs/pt2-qfl4b7u3jebqtbs1un9sweqz3kflsvtpr9xbvuxj6g.png" width="50px" height="auto">
+                                <div class="bg-white border rounded d-flex flex-shrink-0 align-items-center justify-content-center me-3" style="width: 45px; height: 45px;">
+                                        <i class="fas fa-leaf text-primary"></i>
+                                    </div>
                                     <h6 style="color:white; margin-left: 10px; text-align: left;">Memproduksi Benih Dengan Kualitas Yang Baik.</h6>
                                 </div>
                                 <div class="d-flex align-items-center mb-3">
-                                    <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/elementor/thumbs/pt3-qfl4b9prx2ebgjpbjo321e9wac6c8a16fj8aueuqu0.png" width="50px" height="auto">
+                                <div class="bg-white border rounded d-flex flex-shrink-0 align-items-center justify-content-center me-3" style="width: 45px; height: 45px;">
+                                        <i class="fas fa-seedling text-primary"></i>
+                                    </div>
                                     <h6 style="color:white; margin-left: 10px; text-align: left;">Menyediakan Beberapa Produk Benih Pilihan.</h6>
                                 </div>
                                 <div class="d-flex align-items-center mb-3">
-                                    <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/elementor/thumbs/pt4-qfl4bblgaqgw3rml8owb6dsth3x2no8n3sj9syryhk.png" width="50px" height="auto">
+                                   <div class="bg-white border rounded d-flex flex-shrink-0 align-items-center justify-content-center me-3" style="width: 45px; height: 45px;">
+                                        <i class="fas fa-parachute-box text-primary"></i>
+                                    </div>
                                     <h6 style="color:white; margin-left: 10px; text-align: left;">Menyediakan Produk Benih Secara Berkelanjutan.</h6>
                                 </div>
-                                <div class="d-flex align-items-center mb-3">
-                                    <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/elementor/thumbs/pt5-qfl4bcjahki6fdl837axqvka2hsfvdcdfx6ra8qkbc.png" width="50px" height="auto">
+                                <div class="d-flex align-items-center">
+                                   <div class="bg-white border rounded d-flex flex-shrink-0 align-items-center justify-content-center me-3" style="width: 45px; height: 45px;">
+                                        <i class="fas fa-users text-primary"></i>
+                                    </div>
                                     <h6 style="color:white; margin-left: 10px; text-align: left;">Mengedepankan Pelayanan Kepada Konsumen Yang Prima.</h6>
                                 </div>
                             </div>

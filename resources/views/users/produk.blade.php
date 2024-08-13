@@ -26,8 +26,8 @@
                                         <img class="flex-shrink-0 img-fluid border rounded" src="../../assets/img/produk-1.jpg" alt="" style="width: 80px; height: auto;">
                                         <div class="text-start ps-4">
                                             <h5 class="mb-3">BENIH BINTANG</h5>
-                                        <small class="text-truncate"><i class="fas fa-quote-left text-primary me-2"></i>Benih padi dengan kualitas terbaik dan teruji lolos uji sertifikasi dan ISO 9001 – 2008.</small>
-                                        <small class="text-truncate">Diawasi langsung tanpa adanya orang ketiga. Varietas Ciherang, IR-64, Inpari 30, Memberamo, Situ Bagendit , Inpari Sidenuk dan Cibago. <i class="fas fa-quote-right text-primary me-2"></i></small>
+                                        <small><i class="fas fa-quote-left text-primary me-2"></i>Benih padi dengan kualitas terbaik dan teruji lolos uji sertifikasi dan ISO 9001 – 2008.</small>
+                                        <small>Diawasi langsung tanpa adanya orang ketiga. Varietas Ciherang, IR-64, Inpari 30, Memberamo, Situ Bagendit , Inpari Sidenuk dan Cibago. <i class="fas fa-quote-right text-primary me-2"></i></small>
                                         
                                         </div>
                                     </div>
@@ -44,7 +44,7 @@
                                         <img class="flex-shrink-0 img-fluid border rounded" src="../../assets/img/produk-5.jpg" alt="" style="width: 80px; height: auto;">
                                         <div class="text-start ps-4">
                                             <h5 class="mb-3">BENIH JUMBO OPTIMA SEED</h5>
-                                        <small class="text-truncate"><i class="fas fa-quote-left text-primary me-2"></i>Premium benih padi dengan kualitas unggul. Sudah sertifikasi benih dan ISO 9001-2008. <i class="fas fa-quote-right text-primary me-2"></i></small>
+                                        <small><i class="fas fa-quote-left text-primary me-2"></i>Premium benih padi dengan kualitas unggul. Sudah sertifikasi benih dan ISO 9001-2008. <i class="fas fa-quote-right text-primary me-2"></i></small>
                                         </div>
                                     </div>
                                     {{-- <div class="col-sm-12 col-md-4 d-flex flex-column align-items-start align-items-md-end justify-content-center">
@@ -60,7 +60,7 @@
                                         <img class="flex-shrink-0 img-fluid border rounded" src="../../assets/img/produk-3.jpg" alt="" style="width: 80px; height: auto;">
                                         <div class="text-start ps-4">
                                             <h5 class="mb-3">BENIH ALINDO SEED</h5>
-                                        <small class="text-truncate"><i class="fas fa-quote-left text-primary me-2"></i>Premium benih padi dengan kualitas unggul. Sudah sertifikasi benih dan ISO 9001-2008. <i class="fas fa-quote-right text-primary me-2"></i></small>
+                                        <small><i class="fas fa-quote-left text-primary me-2"></i>Premium benih padi dengan kualitas unggul. Sudah sertifikasi benih dan ISO 9001-2008. <i class="fas fa-quote-right text-primary me-2"></i></small>
                                         </div>
                                     </div>
                                     {{-- <div class="col-sm-12 col-md-4 d-flex flex-column align-items-start align-items-md-end justify-content-center">
@@ -76,7 +76,7 @@
                                         <img class="flex-shrink-0 img-fluid border rounded" src="../../assets/img/produk-4.jpg" alt="" style="width: 80px; height: auto;">
                                         <div class="text-start ps-4">
                                             <h5 class="mb-3">BENIH ULTRA SEED</h5>
-                                        <small class="text-truncate"><i class="fas fa-quote-left text-primary me-2"></i>Premium benih padi dengan kualitas unggul. Sudah sertifikasi benih dan ISO 9001-2008. <i class="fas fa-quote-right text-primary me-2"></i></small>
+                                        <small><i class="fas fa-quote-left text-primary me-2"></i>Premium benih padi dengan kualitas unggul. Sudah sertifikasi benih dan ISO 9001-2008. <i class="fas fa-quote-right text-primary me-2"></i></small>
                                         </div>
                                     </div>
                                     {{-- <div class="col-sm-12 col-md-4 d-flex flex-column align-items-start align-items-md-end justify-content-center">
@@ -89,6 +89,76 @@
                         </div>
                     </div>
                 </div>
+                <h1 class="text-center mt-5 wow fadeInUp" data-wow-delay="0.1s">Varietas Unggulan Kami</h1>
+                <div class="col-12">
+                       <div class="row g-4">
+                            <div class="col-md-4 col-12 wow fadeIn d-flex" data-wow-delay="0.1s">
+                                <div class="d-flex align-items-center bg-light rounded p-4 flex-grow-1">
+                                    <div class="bg-white border rounded d-flex flex-shrink-0 align-items-center justify-content-center me-3" style="width: 45px; height: 45px;">
+                                        <i class="fas fa-seedling text-primary"></i>
+                                    </div>
+                                    <span>INPARI 32 HDB</span>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-12 wow fadeIn d-flex" data-wow-delay="0.3s">
+                                <div class="d-flex align-items-center bg-light rounded p-4 flex-grow-1">
+                                    <div class="bg-white border rounded d-flex flex-shrink-0 align-items-center justify-content-center me-3" style="width: 45px; height: 45px;">
+                                        <i class="fas fa-seedling text-primary"></i>
+                                    </div>
+                                    <span>MEKONGGA</span>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-12 wow fadeIn d-flex" data-wow-delay="0.5s">
+                                <div class="d-flex align-items-center bg-light rounded p-4 flex-grow-1">
+                                    <div class="bg-white border rounded d-flex flex-shrink-0 align-items-center justify-content-center me-3" style="width: 45px; height: 45px;">
+                                        <i class="fas fa-seedling text-primary"></i>
+                                    </div>
+                                    <span>CIHERANG</span>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-12 wow fadeIn d-flex" data-wow-delay="0.5s">
+                                <div class="d-flex align-items-center bg-light rounded p-4 flex-grow-1">
+                                    <div class="bg-white border rounded d-flex flex-shrink-0 align-items-center justify-content-center me-3" style="width: 45px; height: 45px;">
+                                        <i class="fas fa-seedling text-primary"></i>
+                                    </div>
+                                    <span>INPARI 42 AGRITAN</span>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-12 wow fadeIn d-flex" data-wow-delay="0.5s">
+                                <div class="d-flex align-items-center bg-light rounded p-4 flex-grow-1">
+                                    <div class="bg-white border rounded d-flex flex-shrink-0 align-items-center justify-content-center me-3" style="width: 45px; height: 45px;">
+                                        <i class="fas fa-seedling text-primary"></i>
+                                    </div>
+                                    <span>IR 64</span>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-12 wow fadeIn d-flex" data-wow-delay="0.5s">
+                                <div class="d-flex align-items-center bg-light rounded p-4 flex-grow-1">
+                                    <div class="bg-white border rounded d-flex flex-shrink-0 align-items-center justify-content-center me-3" style="width: 45px; height: 45px;">
+                                        <i class="fas fa-seedling text-primary"></i>
+                                    </div>
+                                    <span>INPARI 49</span>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-12 wow fadeIn d-flex" data-wow-delay="0.5s">
+                                <div class="d-flex align-items-center bg-light rounded p-4 flex-grow-1">
+                                    <div class="bg-white border rounded d-flex flex-shrink-0 align-items-center justify-content-center me-3" style="width: 45px; height: 45px;">
+                                        <i class="fas fa-seedling text-primary"></i>
+                                    </div>
+                                    <span>SUNGGAL</span>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-12 wow fadeIn d-flex" data-wow-delay="0.5s">
+                                <div class="d-flex align-items-center bg-light rounded p-4 flex-grow-1">
+                                    <div class="bg-white border rounded d-flex flex-shrink-0 align-items-center justify-content-center me-3" style="width: 45px; height: 45px;">
+                                        <i class="fas fa-seedling text-primary"></i>
+                                    </div>
+                                    <span>SITU BAGENDIT</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                
             </div>
         </div>
 @endsection
