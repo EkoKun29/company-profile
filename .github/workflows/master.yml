@@ -13,7 +13,7 @@ jobs:
       - name: Call deploy script
         uses: garygrossgarten/github-action-ssh@release
         with:
-          command: cd /www/wwwroot/cicd.arindoutamaperkasa.com/ && chmod 777 * && ./server_deploy.sh
+          command: cd /www/wwwroot/arindoutamaperkasa.com/ && chmod 777 * && ./server_deploy.sh
           host: ${{ secrets.SSH_HOST }}
           username: ${{ secrets.SSH_USERNAME }}
           password: ${{ secrets.SSH_PASSWORD }}
