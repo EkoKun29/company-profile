@@ -120,7 +120,7 @@
                 <div class="row g-4">
                     <div class="col-lg-6 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
                         <a class="cat-item rounded p-4 d-block mx-auto" style="margin: 0 auto; text-align:center">
-                            <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/2023/11/icon1-2.png" width="100px" height="auto"></i>
+                            <img src="../assets/img/icon-1.png" width="100px" height="auto"></i>
                             <br>
                             <h6 class="mb-3">Dari Petani Untuk Petani</h6>
                             <p class="mb-0">Produk benih kami diambil dari areal terbaik dan didistribusikan
@@ -129,7 +129,7 @@
                     </div>
                     <div class="col-lg-6 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
                         <a class="cat-item rounded p-4 d-block mx-auto" style="margin: 0 auto; text-align:center">
-                            <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/2023/11/icon2.png" width="100px" height="auto"></i>
+                            <img src="../assets/img/icon-2.png" width="100px" height="auto"></i>
                             <h6 class="mb-3">Kualitas Benih Yang Baik</h6>
                             <p class="mb-0">Mengedepankan pelayanan konsumen yang prima. <br><br></p>
                         </a>
@@ -206,21 +206,21 @@
                         <h1 class="mb-4" style="text-align:center">Kata Petani Kita</h1>
                         <div class="col-lg-12 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
                         <a class="cat-item rounded p-4 d-flex align-items-center" style="margin: 0 auto;">
-                            <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/2023/11/icon1-2.png" width="100px" height="auto"></i>
+                            <img src="../assets/img/icon-1.png" width="100px" height="auto"></i>
                             <div>
                                 <h6 class="mb-1">SISWANTO, PETANI NGANJUK</h6>
                                 <p class="mb-0">Semenjak Beralih Ke Benih Bintang, Ada Peningkatan Hasil Panen Saya.</p>
                             </div>
                         </a>
                         <a class="cat-item rounded p-4 d-flex align-items-center" style="margin: 0 auto;">
-                            <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/2023/11/icon1-2.png" width="100px" height="auto"></i>
+                            <img src="../assets/img/icon-1.png" width="100px" height="auto"></i>
                             <div>
                                 <h6 class="mb-1">ABDUL, PETANI NGAWI</h6>
                                 <p class="mb-0">Saya Sudah Pakai Benih Bintang Sudah Lama. Alhasil Padi Saya Tahan Bakteri Dan Jamur.</p>
                             </div>
                         </a>
                         <a class="cat-item rounded p-4 d-flex align-items-center" style="margin: 0 auto;">
-                            <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/2023/11/icon1-2.png" width="100px" height="auto"></i>
+                            <img src="../assets/img/icon-1.png" width="100px" height="auto"></i>
                             <div>
                                 <h6 class="mb-1">RAHMAN, PETANI KUDUS</h6>
                                 <p class="mb-0">Benih Padi Ultraseed Tetap Menjadi Andalan Kami.</p>
@@ -232,35 +232,35 @@
                         <h1 class="mb-4" style="text-align:center">Distributor Kami</h1>
                          <div class="col-lg-12 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
                         <a class="cat-item rounded p-4 d-flex align-items-center" style="margin: 0 auto;">
-                            <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/elementor/thumbs/icoico2-qfl486strdxpoi2qzig2fog6cycxlr8vlam98qv5bw.png" width="50px" height="auto"></i>
+                            <img src="../assets/img/kios.png" width="50px" height="auto"></i>
                             <div style="margin-left: 15px;">
                                 <h6 class="mb-1">TOKO INDO KIMIA FARMA</h6>
                                 <p class="mb-0">Pati, Jawa Tengah.</p>
                             </div>
                         </a>
                         <a class="cat-item rounded p-4 d-flex align-items-center" style="margin: 0 auto;">
-                            <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/elementor/thumbs/icoico2-qfl486strdxpoi2qzig2fog6cycxlr8vlam98qv5bw.png" width="50px" height="auto"></i>
+                            <img src="../assets/img/kios.png" width="50px" height="auto"></i>
                             <div style="margin-left: 15px;">
                                 <h6 class="mb-1">TOKO RAHMAT TANI</h6>
                                 <p class="mb-0">Pati, Jawa Tengah.</p>
                             </div>
                         </a>
                         <a class="cat-item rounded p-4 d-flex align-items-center" style="margin: 0 auto;">
-                            <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/elementor/thumbs/icoico2-qfl486strdxpoi2qzig2fog6cycxlr8vlam98qv5bw.png" width="50px" height="auto"></i>
+                            <img src="../assets/img/kios.png" width="50px" height="auto"></i>
                             <div style="margin-left: 15px;">
                                 <h6 class="mb-1">TOKO BANGKIT SANJAYA</h6>
                                 <p class="mb-0">Pati, Jawa Tengah.</p>
                             </div>
                         </a>
                         <a class="cat-item rounded p-4 d-flex align-items-center" style="margin: 0 auto;">
-                            <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/elementor/thumbs/icoico2-qfl486strdxpoi2qzig2fog6cycxlr8vlam98qv5bw.png" width="50px" height="auto"></i>
+                            <img src="../assets/img/kios.png" width="50px" height="auto"></i>
                             <div style="margin-left: 15px;">
                                 <h6 class="mb-1">TOKO BERKAH ABADI</h6>
                                 <p class="mb-0">Pati, Jawa Tengah.</p>
                             </div>
                         </a>
                         <a class="cat-item rounded p-4 d-flex align-items-center" style="margin: 0 auto;">
-                            <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/elementor/thumbs/icoico2-qfl486strdxpoi2qzig2fog6cycxlr8vlam98qv5bw.png" width="50px" height="auto"></i>
+                            <img src="../assets/img/kios.png" width="50px" height="auto"></i>
                             <div style="margin-left: 15px;">
                                 <h6 class="mb-1">TOKO SRI MURNI</h6>
                                 <p class="mb-0">Pati, Jawa Tengah.</p>

@@ -60,7 +60,7 @@
                 <div class="col-lg-6 col-sm-12 mb-3" style="text-align:center; margin:0 auto">
                     <a class="cat-item rounded p-4 d-block mx-auto">
                         <h1 class="col-lg-12 mb-3 wow fadeInUp" style="color:white;" data-wow-delay="0.1s">VISI</h1>
-                        <img src="http://arindoutamaperkasa.co.id/wp-content/uploads/2023/12/ico2.png" width="200px" height="auto">
+                        <img src="../assets/img/award.png" width="200px" height="auto">
                         <h6 class="mb-3" style="color:white; margin-top:40px; font-size:20px">MENJADI PRODUSEN BENIH YANG BISA MEMBERIKAN KEPUASAN KEPADA PARA PELANGGAN</h6>
                     </a>
                 </div>
