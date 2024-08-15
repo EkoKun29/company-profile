@@ -198,46 +198,49 @@
                         <a class="cat-item rounded p-4 d-block mx-auto" style="margin: 0 auto; text-align:center">
                             <img src="../assets/img/kios.png" width="100px" height="auto"></i>
                             <br>
+                            <br>
                             <h6 class="mb-1">TOKO INDO KIMIA FARMA</h6>
                                 <small>Jl. Raya Pati - Tayu No.km 2, Bongsri, Mulyoharjo, Kec. Pati.</small>
-                                <small>Kabupaten Pati, Jawa Tengah.</small>
+                                <p class="mb-1">Kabupaten Pati, Jawa Tengah.</p>
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
                         <a class="cat-item rounded p-4 d-block mx-auto" style="margin: 0 auto; text-align:center">
-                            <img src="../assets/img/kios.png" width="100px" height="auto"></i>
+                            <img src="../assets/img/kios.png" width="100px" height="auto"></i><br>
+                            <br>
                            <h6 class="mb-1">TOKO BANGKIT SANJAYA</h6>
                                 <small>Jl. Honggokusuman, Tegalkembangan, Kuwu, Kec. Kradenan.</small>
-                                <small>Grobogan, Jawa Tengah.</small>
+                                <p class="mb-1">Grobogan, Jawa Tengah.</p>
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
                         <a class="cat-item rounded p-4 d-block mx-auto" style="margin: 0 auto; text-align:center">
-                            <img src="../assets/img/kios.png" width="100px" height="auto"></i>
+                            <img src="../assets/img/kios.png" width="100px" height="auto"></i><br>
+                            <br>
                             <h6 class="mb-1">TOKO BERKAH ABADI</h6>
                                 <small>Jl. Ketonggo, RT.2/RW.5, Puntuk, Kuwu, Kec. Paron.</small>
-                                <small>Ngawi, Jawa Timur.</small>
+                                <p class="mb-1">Ngawi, Jawa Timur.</p>
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
                         <a class="cat-item rounded p-4 d-block mx-auto" style="margin: 0 auto; text-align:center">
-                            <img src="../assets/img/kios.png" width="100px" height="auto"></i>
+                            <img src="../assets/img/kios.png" width="100px" height="auto"></i><br>
+                            <br>
                             <h6 class="mb-1">TOKO RAHMAT TANI</h6>
-                                <small>Blora, Jawa Tengah.</small>
+                            <p class="mb-1">Blora, Jawa Tengah.</p>
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
                         <a class="cat-item rounded p-4 d-block mx-auto" style="margin: 0 auto; text-align:center">
-                            <img src="../assets/img/kios.png" width="100px" height="auto"></i>
+                            <img src="../assets/img/kios.png" width="100px" height="auto"></i><br>
                             <br>
                             <h6 class="mb-1">H. MASKAR</h6>
-                                <small>Kuningan, Jawa Barat.</small>
+                            <p class="mb-1">Kuningan, Jawa Barat.</p>
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
                         <a class="cat-item rounded p-4 d-block mx-auto" style="margin: 0 auto; text-align:center">
-                            <img src="../assets/img/kios.png" width="100px" height="auto"></i>
-                            <br>
+                            <img src="../assets/img/kios.png" width="100px" height="auto"></i><br>
                             <br>
                             <h6 class="mb-1">Dan Masih Banyak Lagi...</h6>
                         </a>
