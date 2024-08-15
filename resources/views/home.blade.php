@@ -134,48 +134,6 @@
                             <p class="mb-0">Mengedepankan pelayanan konsumen yang prima. <br><br></p>
                         </a>
                     </div>
-                    {{-- <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
-                        <a class="cat-item rounded p-4" href="">
-                            <i class="fa fa-3x fa-user-tie text-primary mb-4"></i>
-                            <h6 class="mb-3">Human Resource</h6>
-                            <p class="mb-0">123 Vacancy</p>
-                        </a>
-                    </div>
-                    <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
-                        <a class="cat-item rounded p-4" href="">
-                            <i class="fa fa-3x fa-tasks text-primary mb-4"></i>
-                            <h6 class="mb-3">Project Management</h6>
-                            <p class="mb-0">123 Vacancy</p>
-                        </a>
-                    </div>
-                    <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
-                        <a class="cat-item rounded p-4" href="">
-                            <i class="fa fa-3x fa-chart-line text-primary mb-4"></i>
-                            <h6 class="mb-3">Business Development</h6>
-                            <p class="mb-0">123 Vacancy</p>
-                        </a>
-                    </div>
-                    <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
-                        <a class="cat-item rounded p-4" href="">
-                            <i class="fa fa-3x fa-hands-helping text-primary mb-4"></i>
-                            <h6 class="mb-3">Sales & Communication</h6>
-                            <p class="mb-0">123 Vacancy</p>
-                        </a>
-                    </div>
-                    <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
-                        <a class="cat-item rounded p-4" href="">
-                            <i class="fa fa-3x fa-book-reader text-primary mb-4"></i>
-                            <h6 class="mb-3">Teaching & Education</h6>
-                            <p class="mb-0">123 Vacancy</p>
-                        </a>
-                    </div>
-                    <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
-                        <a class="cat-item rounded p-4" href="">
-                            <i class="fa fa-3x fa-drafting-compass text-primary mb-4"></i>
-                            <h6 class="mb-3">Design & Creative</h6>
-                            <p class="mb-0">123 Vacancy</p>
-                        </a>
-                    </div> --}}
                 </div>
             </div>
         </div>
@@ -186,7 +144,7 @@
         <div class="container-xxl py-5">
             <div class="container">
                 <div class="row g-5 align-items-center">
-                    <div class="col-lg-4 wow fadeIn" data-wow-delay="0.1s">
+                    <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                         <div class="row g-0 about-bg rounded overflow-hidden">
                             <div class="col-6 text-start">
                                 <img class="img-fluid w-100" src="../assets/img/petani-4.jpg">
@@ -202,13 +160,13 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 wow fadeIn" data-wow-delay="0.5s">
+                    <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                         <h1 class="mb-4" style="text-align:center">Kata Petani Kita</h1>
                         <div class="col-lg-12 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
                         <a class="cat-item rounded p-4 d-flex align-items-center" style="margin: 0 auto;">
                             <img src="../assets/img/icon-1.png" width="100px" height="auto"></i>
                             <div>
-                                <h6 class="mb-1">SISWANTO, PETANI NGANJUK</h6>
+                                <h6 class="mb-1">SELAMET, PETANI PATI</h6>
                                 <p class="mb-0">Semenjak Beralih Ke Benih Bintang, Ada Peningkatan Hasil Panen Saya.</p>
                             </div>
                         </a>
@@ -222,52 +180,67 @@
                         <a class="cat-item rounded p-4 d-flex align-items-center" style="margin: 0 auto;">
                             <img src="../assets/img/icon-1.png" width="100px" height="auto"></i>
                             <div>
-                                <h6 class="mb-1">RAHMAN, PETANI KUDUS</h6>
+                                <h6 class="mb-1">WASITO, PETANI KUDUS</h6>
                                 <p class="mb-0">Benih Padi Ultraseed Tetap Menjadi Andalan Kami.</p>
                             </div>
                         </a>
                         </div>
                     </div>
-                    <div class="col-lg-4 wow fadeIn" data-wow-delay="0.5s">
-                        <h1 class="mb-4" style="text-align:center">Distributor Kami</h1>
-                         <div class="col-lg-12 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
-                        <a class="cat-item rounded p-4 d-flex align-items-center" style="margin: 0 auto;">
-                            <img src="../assets/img/kios.png" width="50px" height="auto"></i>
-                            <div style="margin-left: 15px;">
-                                <h6 class="mb-1">TOKO INDO KIMIA FARMA</h6>
-                                <p class="mb-0">Pati, Jawa Tengah.</p>
-                            </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container-xxl py-5">
+            <div class="container">
+                <h1 class="text-center mb-2 wow fadeInUp" data-wow-delay="0.1s">Distributor Kami</h1>
+                <div class="row g-4">
+                    <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <a class="cat-item rounded p-4 d-block mx-auto" style="margin: 0 auto; text-align:center">
+                            <img src="../assets/img/kios.png" width="100px" height="auto"></i>
+                            <br>
+                            <h6 class="mb-1">TOKO INDO KIMIA FARMA</h6>
+                                <small>Jl. Raya Pati - Tayu No.km 2, Bongsri, Mulyoharjo, Kec. Pati.</small>
+                                <small>Kabupaten Pati, Jawa Tengah.</small>
                         </a>
-                        <a class="cat-item rounded p-4 d-flex align-items-center" style="margin: 0 auto;">
-                            <img src="../assets/img/kios.png" width="50px" height="auto"></i>
-                            <div style="margin-left: 15px;">
-                                <h6 class="mb-1">TOKO RAHMAT TANI</h6>
-                                <p class="mb-0">Pati, Jawa Tengah.</p>
-                            </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <a class="cat-item rounded p-4 d-block mx-auto" style="margin: 0 auto; text-align:center">
+                            <img src="../assets/img/kios.png" width="100px" height="auto"></i>
+                           <h6 class="mb-1">TOKO BANGKIT SANJAYA</h6>
+                                <small>Jl. Honggokusuman, Tegalkembangan, Kuwu, Kec. Kradenan.</small>
+                                <small>Grobogan, Jawa Tengah.</small>
                         </a>
-                        <a class="cat-item rounded p-4 d-flex align-items-center" style="margin: 0 auto;">
-                            <img src="../assets/img/kios.png" width="50px" height="auto"></i>
-                            <div style="margin-left: 15px;">
-                                <h6 class="mb-1">TOKO BANGKIT SANJAYA</h6>
-                                <p class="mb-0">Pati, Jawa Tengah.</p>
-                            </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <a class="cat-item rounded p-4 d-block mx-auto" style="margin: 0 auto; text-align:center">
+                            <img src="../assets/img/kios.png" width="100px" height="auto"></i>
+                            <h6 class="mb-1">TOKO BERKAH ABADI</h6>
+                                <small>Jl. Ketonggo, RT.2/RW.5, Puntuk, Kuwu, Kec. Paron.</small>
+                                <small>Ngawi, Jawa Timur.</small>
                         </a>
-                        <a class="cat-item rounded p-4 d-flex align-items-center" style="margin: 0 auto;">
-                            <img src="../assets/img/kios.png" width="50px" height="auto"></i>
-                            <div style="margin-left: 15px;">
-                                <h6 class="mb-1">TOKO BERKAH ABADI</h6>
-                                <p class="mb-0">Pati, Jawa Tengah.</p>
-                            </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <a class="cat-item rounded p-4 d-block mx-auto" style="margin: 0 auto; text-align:center">
+                            <img src="../assets/img/kios.png" width="100px" height="auto"></i>
+                            <h6 class="mb-1">TOKO RAHMAT TANI</h6>
+                                <small>Blora, Jawa Tengah.</small>
                         </a>
-                        <a class="cat-item rounded p-4 d-flex align-items-center" style="margin: 0 auto;">
-                            <img src="../assets/img/kios.png" width="50px" height="auto"></i>
-                            <div style="margin-left: 15px;">
-                                <h6 class="mb-1">TOKO SRI MURNI</h6>
-                                <p class="mb-0">Pati, Jawa Tengah.</p>
-                                <h6 class="mb-1">Dan Masih Banyak Lagi...</h6>
-                            </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
+                        <a class="cat-item rounded p-4 d-block mx-auto" style="margin: 0 auto; text-align:center">
+                            <img src="../assets/img/kios.png" width="100px" height="auto"></i>
+                            <br>
+                            <h6 class="mb-1">H. MASKAR</h6>
+                                <small>Kuningan, Jawa Barat.</small>
                         </a>
-                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
+                        <a class="cat-item rounded p-4 d-block mx-auto" style="margin: 0 auto; text-align:center">
+                            <img src="../assets/img/kios.png" width="100px" height="auto"></i>
+                            <br>
+                            <br>
+                            <h6 class="mb-1">Dan Masih Banyak Lagi...</h6>
+                        </a>
                     </div>
                 </div>
             </div>
