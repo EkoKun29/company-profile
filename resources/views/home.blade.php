@@ -199,7 +199,7 @@
                             <img src="../assets/img/kios.png" width="100px" height="auto"></i>
                             <br>
                             <br>
-                            <h6 class="mb-1">TOKO INDO KIMIA FARMA</h6>
+                            <h6 class="mb-1">TOKO INDO KIMIA</h6>
                                 <small>Jl. Raya Pati - Tayu No.km 2, Bongsri, Mulyoharjo, Kec. Pati.</small>
                                 <p class="mb-1">Kabupaten Pati, Jawa Tengah.</p>
                         </a>
