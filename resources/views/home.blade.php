@@ -167,14 +167,14 @@
                             <img src="../assets/img/icon-1.png" width="100px" height="auto"></i>
                             <div>
                                 <h6 class="mb-1">SELAMET, PETANI PATI</h6>
-                                <p class="mb-0">Semenjak Beralih Ke Benih Bintang, Ada Peningkatan Hasil Panen Saya.</p>
+                                <p class="mb-0">Semenjak Beralih Ke Benih Padi Bintang, Ada Peningkatan Hasil Panen Saya.</p>
                             </div>
                         </a>
                         <a class="cat-item rounded p-4 d-flex align-items-center" style="margin: 0 auto;">
                             <img src="../assets/img/icon-1.png" width="100px" height="auto"></i>
                             <div>
-                                <h6 class="mb-1">ABDUL, PETANI NGAWI</h6>
-                                <p class="mb-0">Saya Sudah Pakai Benih Bintang Sudah Lama. Alhasil Padi Saya Tahan Bakteri Dan Jamur.</p>
+                                <h6 class="mb-1">MILAI UDAYA, PETANI NGAWI</h6>
+                                <p class="mb-0">Saya Sudah Pakai Benih Padi Alindo Sudah Lama. Alhasil Padi Saya Tahan Bakteri Dan Jamur.</p>
                             </div>
                         </a>
                         <a class="cat-item rounded p-4 d-flex align-items-center" style="margin: 0 auto;">
@@ -199,7 +199,7 @@
                             <img src="../assets/img/kios.png" width="100px" height="auto"></i>
                             <br>
                             <br>
-                            <h6 class="mb-1">TOKO INDO KIMIA</h6>
+                            <h6 class="mb-1">CV. INDO KIMIA</h6>
                                 <small>Jl. Raya Pati - Tayu No.km 2, Bongsri, Mulyoharjo, Kec. Pati.</small>
                                 <p class="mb-1">Kabupaten Pati, Jawa Tengah.</p>
                         </a>
@@ -208,7 +208,7 @@
                         <a class="cat-item rounded p-4 d-block mx-auto" style="margin: 0 auto; text-align:center">
                             <img src="../assets/img/kios.png" width="100px" height="auto"></i><br>
                             <br>
-                           <h6 class="mb-1">TOKO BANGKIT SANJAYA</h6>
+                           <h6 class="mb-1">CV. BANGKIT SANJAYA</h6>
                                 <small>Jl. Honggokusuman, Tegalkembangan, Kuwu, Kec. Kradenan.</small>
                                 <p class="mb-1">Grobogan, Jawa Tengah.</p>
                         </a>
@@ -217,7 +217,7 @@
                         <a class="cat-item rounded p-4 d-block mx-auto" style="margin: 0 auto; text-align:center">
                             <img src="../assets/img/kios.png" width="100px" height="auto"></i><br>
                             <br>
-                            <h6 class="mb-1">TOKO BERKAH ABADI</h6>
+                            <h6 class="mb-1">CV. BERKAH ABADI</h6>
                                 <small>Jl. Ketonggo, RT.2/RW.5, Puntuk, Kuwu, Kec. Paron.</small>
                                 <p class="mb-1">Ngawi, Jawa Timur.</p>
                         </a>
@@ -226,7 +226,7 @@
                         <a class="cat-item rounded p-4 d-block mx-auto" style="margin: 0 auto; text-align:center">
                             <img src="../assets/img/kios.png" width="100px" height="auto"></i><br>
                             <br>
-                            <h6 class="mb-1">TOKO RAHMAT TANI</h6>
+                            <h6 class="mb-1">CV. RAHMAT TANI</h6>
                             <p class="mb-1">Blora, Jawa Tengah.</p>
                         </a>
                     </div>
@@ -234,7 +234,7 @@
                         <a class="cat-item rounded p-4 d-block mx-auto" style="margin: 0 auto; text-align:center">
                             <img src="../assets/img/kios.png" width="100px" height="auto"></i><br>
                             <br>
-                            <h6 class="mb-1">H. MASKAR</h6>
+                            <h6 class="mb-1">TOKO H. MASKAR</h6>
                             <p class="mb-1">Kuningan, Jawa Barat.</p>
                         </a>
                     </div>

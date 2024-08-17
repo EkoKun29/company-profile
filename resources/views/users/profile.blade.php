@@ -45,9 +45,8 @@
                     </div>
                     <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                         <h1 class="mb-4">PT. ARINDO UTAMA PERKASA</h1>
-                        <p class="mb-4" style="text-align:justify">PT ARINDO UTAMA PERKASA (PT. AUP) adalah perusahaan yang bergerak dibidang pertanian. Pertama kali berdiri tahun 2000 berbentuk PB (Produsen Benih), 
-                        setelah beroperasi selama 3 tahun berubah menjadi CV pada tahun 2003, empat tahun kemudian menjadi PT. ARINDO UTAMA PERKASA mengawali usaha sebagai penyedia benih padi dengan merk Cap Bintang. Selama hampir 10 tahun, merk ini telah menjadi andalan para petani untuk kebutuhan benih padi bagi lahan pertanian.</p>
-                        <p class="mb-4" style="text-align:justify">Seiring dengan pertumbuhan usaha, PT. AUP tahun ini mengembangkan sayap bisnisnya dengan meningkatkan benih-benih pilihan yang dibutuhkan petani saat ini. Berbekal pengalaman di bidang pertanian selama 14 tahun, kami akan selalu berusaha untuk memberikan yang terbaik bagi para petani padi Indonesia.</p>
+                        <p class="mb-4" style="text-align:justify">PT ARINDO UTAMA PERKASA (PT. AUP) adalah perusahaan yang bergerak di sektor pertanian yang berfokus pada bidang produksi benih Padi Inbrida sejak tahun 2007. Berbekal pengalaman di bidang produksi benih padi selama 17 tahun, kami akan selalu berusaha
+                        untuk memberikan pelayanan yang terbaik bagi para petani padi Indonesia.</p>
                     </div>
                 </div>
             </div>
@@ -129,7 +128,7 @@
                 <p class="mb-4" style="text-align:justify">Selama ini PT. ARINDO UTAMA PERKASA telah berpengalaman dalam memproduksi benih unggul bersertifikat. Wilayah yang kami layani meliputi Kabupaten Pati serta daerah lain sekitarnya, diantaranya Kabupaten Blora, Kabupaten Rembang, Kabupaten Jepara, Kabupaten Kudus, Kabupaten Demak, Kabupaten Grobogan, Kabupaten Boyolali, Kabupaten Klaten, 
                 Wilayah Jawa Timur dan Jawa Barat. Hal ini bisa dilihat dengan telah adanya jaringan pemasaran (distributor) yang siap membantu memasarkan barang yang kami perdagangkan, sebagaimana yang dicantumkan dalam Daftar Distributor.</p>
                 <p class="mb-4" style="text-align:justify">Jadi pengalaman dalam hal produksi / pendistribusian barang terutama Benih Unggul Bersertifikat kepada petani melalui distributor bukan merupakan hal yang baru bagi perusahaan kami dalam memperdagangkan / memasarkan produk pertanian terutama dalam penjualan benih serta pembinaan distributor dan kelompok tani di wilayah kerja yang telah ditetapkan.</p>
-                <p class="mb-4" style="text-align:justify">Dari segi usaha, sumber daya manusia, manajemen, serta sarana dan prasarana, PT. ARINDO UTAMA PERKASA telah siap untuk mengembangkan usaha perbenihan untuk wilayah seluruh indonesia.</p>
+                <p class="mb-4" style="text-align:justify">Dari segi usaha, sumber daya manusia, manajemen, serta sarana dan prasarana, PT. ARINDO UTAMA PERKASA selalu berusaha memenuhi kebutuhan benih untuk petani dengan mengedepankan pelayanan yang prima.</p>
             </div>
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                 <div class="row g-0 about-bg rounded overflow-hidden">

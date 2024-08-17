@@ -26,8 +26,8 @@
                                         <img class="flex-shrink-0 img-fluid border rounded" src="../../assets/img/produk-1.jpg" alt="" style="width: 80px; height: auto;">
                                         <div class="text-start ps-4">
                                             <h5 class="mb-3">BENIH BINTANG</h5>
-                                        <small><i class="fas fa-quote-left text-primary me-2"></i>Benih padi dengan kualitas terbaik dan teruji lolos uji sertifikasi dan ISO 9001 – 2015.</small>
-                                        <small>Diawasi langsung tanpa adanya orang ketiga. Varietas Ciherang, IR-64, Inpari 30, Memberamo, Situ Bagendit , Inpari Sidenuk dan Cibago. <i class="fas fa-quote-right text-primary me-2"></i></small>
+                                        <small><i class="fas fa-quote-left text-primary me-2"></i>Benih Varietas Unggul dengan Mutu Terbaik.</small>
+                                        <small>Telah mendapatkan Sertifikasi Sistem Manajemen Mutu SNI ISO 9001:2015. <i class="fas fa-quote-right text-primary me-2"></i></small>
                                         
                                         </div>
                                     </div>
@@ -44,7 +44,7 @@
                                         <img class="flex-shrink-0 img-fluid border rounded" src="../../assets/img/produk-5.jpg" alt="" style="width: 80px; height: auto;">
                                         <div class="text-start ps-4">
                                             <h5 class="mb-3">BENIH JUMBO OPTIMA SEED</h5>
-                                        <small><i class="fas fa-quote-left text-primary me-2"></i>Premium benih padi dengan kualitas unggul. Sudah sertifikasi benih dan ISO 9001-2015. <i class="fas fa-quote-right text-primary me-2"></i></small>
+                                        <small><i class="fas fa-quote-left text-primary me-2"></i>Benih Padi Varietas Unggul dengan Kualitas Premium. Telah mendapatkan Sertifikasi Sistem Manajemen Mutu SNI ISO 9001-2015. <i class="fas fa-quote-right text-primary me-2"></i></small>
                                         </div>
                                     </div>
                                     {{-- <div class="col-sm-12 col-md-4 d-flex flex-column align-items-start align-items-md-end justify-content-center">
@@ -60,7 +60,7 @@
                                         <img class="flex-shrink-0 img-fluid border rounded" src="../../assets/img/produk-3.jpg" alt="" style="width: 80px; height: auto;">
                                         <div class="text-start ps-4">
                                             <h5 class="mb-3">BENIH ALINDO SEED</h5>
-                                        <small><i class="fas fa-quote-left text-primary me-2"></i>Premium benih padi dengan kualitas unggul. Sudah sertifikasi benih dan ISO 9001-2015. <i class="fas fa-quote-right text-primary me-2"></i></small>
+                                        <small><i class="fas fa-quote-left text-primary me-2"></i>Benih Padi Varietas Unggul dengan Kualitas Premium. Telah mendapatkan Sertifikasi Sistem Manajemen Mutu SNI ISO 9001-2015. <i class="fas fa-quote-right text-primary me-2"></i></small>
                                         </div>
                                     </div>
                                     {{-- <div class="col-sm-12 col-md-4 d-flex flex-column align-items-start align-items-md-end justify-content-center">
@@ -76,7 +76,7 @@
                                         <img class="flex-shrink-0 img-fluid border rounded" src="../../assets/img/produk-4.jpg" alt="" style="width: 80px; height: auto;">
                                         <div class="text-start ps-4">
                                             <h5 class="mb-3">BENIH ULTRA SEED</h5>
-                                        <small><i class="fas fa-quote-left text-primary me-2"></i>Premium benih padi dengan kualitas unggul. Sudah sertifikasi benih dan ISO 9001-2015. <i class="fas fa-quote-right text-primary me-2"></i></small>
+                                        <small><i class="fas fa-quote-left text-primary me-2"></i>Benih Padi Varietas Unggul dengan Kualitas Premium. Telah mendapatkan Sertifikasi Sistem Manajemen Mutu SNI ISO 9001-2015. <i class="fas fa-quote-right text-primary me-2"></i></small>
                                         </div>
                                     </div>
                                     {{-- <div class="col-sm-12 col-md-4 d-flex flex-column align-items-start align-items-md-end justify-content-center">
